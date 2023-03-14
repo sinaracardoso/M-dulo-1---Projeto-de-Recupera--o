@@ -1,0 +1,27 @@
+package com.produto.apirest.resources;
+
+import java.util.List;
+
+public class CategoriaRepository {
+
+	public List<Categoria> findAll() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public Categoria findById(long id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public Categoria save(Categoria categoria) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public void delete(Categoria categoria) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

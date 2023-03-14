@@ -1,0 +1,5 @@
+package com.produto.apirest.resources;
+
+public class Categoria {
+
+}
